@@ -1,0 +1,5 @@
+{
+  "THRESHOLD": 18,
+  "SUPPORT_COVERAGE": 0.55,
+  "MIN_BM25": 14
+}

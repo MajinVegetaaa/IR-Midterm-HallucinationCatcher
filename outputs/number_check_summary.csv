@@ -1,0 +1,5 @@
+,value
+claims tested,10.0
+"still green, NO number check",0.8
+"still green, WITH number check",0.0
+"flagged red, WITH number check",0.8

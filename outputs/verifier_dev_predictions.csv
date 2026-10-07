@@ -1,0 +1,301 @@
+id,claim,gold,coverage,best_bm25,top_score,norm_top,number_mismatch,doc_id,gold_docs,verdict
+1,0-dimensional biomaterials show inductive properties.,NEI,0.335,13.414,13.414,0.186,False,10608397,[],HALLUCINATED
+3,"1,000 genomes project enables mapping of genetic sequence variation consisting of rare variants with larger penetrance effects than common variants.",SUPPORT,0.406,32.099,37.119,0.241,False,2107238,['14717500'],UNVERIFIED
+5,1/2000 in UK have abnormal PrP positivity.,SUPPORT,0.734,23.45,23.45,0.351,True,13734012,['13734012'],HALLUCINATED
+13,5% of perinatal mortality is due to low birth weight.,NEI,0.754,26.942,26.942,0.393,False,1263446,[],SUPPORTED
+36,A deficiency of vitamin B12 increases blood levels of homocysteine.,NEI,0.769,25.347,30.379,0.428,False,42441846,[],SUPPORTED
+42,A high microerythrocyte count raises vulnerability to severe anemia in homozygous alpha (+)- thalassemia trait subjects.,CONTRADICT,0.427,37.693,37.693,0.248,False,40913091,['18174210'],UNVERIFIED
+48,"A total of 1,000 people in the UK are asymptomatic carriers of vCJD infection.",CONTRADICT,0.402,20.038,23.665,0.231,True,13734012,['13734012'],UNVERIFIED
+49,ADAR1 binds to Dicer to cleave pre-miRNA.,SUPPORT,0.722,38.129,38.129,0.471,False,5953485,['5953485'],SUPPORTED
+50,AIRE is expressed in some skin tumors.,SUPPORT,1.0,23.097,23.097,0.639,False,12580014,['12580014'],SUPPORTED
+51,ALDH1 expression is associated with better breast cancer outcomes.,CONTRADICT,0.695,18.409,24.342,0.395,False,45638119,['45638119'],SUPPORTED
+53,ALDH1 expression is associated with poorer prognosis in breast cancer.,SUPPORT,0.647,26.485,26.485,0.37,False,45638119,['45638119'],SUPPORTED
+54,AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.,CONTRADICT,0.677,32.97,33.964,0.399,False,3419709,['49556906'],SUPPORTED
+56,APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation causing GABA neuron degeneration.,SUPPORT,0.712,54.914,54.914,0.371,False,4709641,['4709641'],SUPPORTED
+57,"APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation, delaying GABA neuron degeneration.",CONTRADICT,0.691,54.914,54.914,0.36,False,4709641,['4709641'],SUPPORTED
+70,Activation of PPM1D suppresses p53 function.,SUPPORT,1.0,28.51,28.51,0.6,False,5956380,"['5956380', '4414547']",SUPPORTED
+72,Activator-inhibitor pairs are provided dorsally by Admpchordin.,NEI,0.33,10.848,12.121,0.179,False,1031534,[],HALLUCINATED
+75,"Active H. pylori urease has a polymeric structure that compromises two subunits, UreA and UreB.",NEI,0.527,40.17,40.17,0.291,False,13965483,[],UNVERIFIED
+94,Albendazole is used to treat lymphatic filariasis.,NEI,0.542,15.963,15.963,0.206,False,1215116,[],UNVERIFIED
+99,Alizarin forms hydrogen bonds with residues involved in PGAM1 substrate binding.,NEI,0.336,23.699,23.699,0.199,False,18810195,[],HALLUCINATED
+100,All hematopoietic stem cells segregate their chromosomes randomly.,SUPPORT,0.788,20.195,21.46,0.394,False,4381486,['4381486'],SUPPORTED
+113,Angiotensin converting enzyme inhibitors are associated with increased risk for functional renal insufficiency.,SUPPORT,0.886,39.053,39.053,0.444,False,6157837,['6157837'],SUPPORTED
+115,Anthrax spores can be disposed of easily after they are dispersed.,CONTRADICT,0.468,21.008,21.008,0.235,False,33872649,['33872649'],UNVERIFIED
+118,Antibiotic induced alterations in the gut microbiome reduce resistance against Clostridium difficile,SUPPORT,1.0,60.084,60.084,0.544,False,6372244,['6372244'],SUPPORTED
+124,Antiretroviral therapy reduces rates of tuberculosis across a broad range of CD4 strata.,SUPPORT,0.675,38.89,38.89,0.359,False,4883040,['4883040'],SUPPORTED
+127,Arginine 90 in p150n is important for interaction with EB1.,NEI,0.307,18.161,18.161,0.222,True,35231675,[],HALLUCINATED
+128,Arterioles have a larger lumen diameter than venules.,NEI,0.469,15.15,16.102,0.186,False,8290953,[],UNVERIFIED
+129,Articles published in open access format are less likely to be cited than traditional journals.,CONTRADICT,0.753,46.044,46.044,0.402,False,27768226,['27768226'],SUPPORTED
+130,Articles published in open access format are more likely to be cited than traditional journals.,SUPPORT,0.732,42.301,42.301,0.401,False,27768226,['27768226'],SUPPORTED
+132,Aspirin inhibits the production of PGE2.,NEI,0.53,13.879,13.879,0.303,False,54482327,[],UNVERIFIED
+133,"Assembly of invadopodia is triggered by focal generation of phosphatidylinositol-3,4-biphosphate and the activation of the nonreceptor tyrosine kinase Src.",SUPPORT,0.36,26.307,27.627,0.167,True,26688294,['16280642'],UNVERIFIED
+137,Asymptomatic visual impairment screening in elderly populations does not lead to improved vision.,SUPPORT,0.711,39.346,39.346,0.407,False,26016929,['26016929'],SUPPORTED
+141,Auditory entrainment is strengthened when people see congruent visual and auditory information.,SUPPORT,0.768,53.902,53.902,0.471,False,14437255,['14437255'],SUPPORTED
+142,Autologous transplantation of mesenchymal stem cells causes a higher rate of opportunistic infections than induction therapy with anti-interleukin-2 receptor antibodies.,CONTRADICT,0.784,51.314,51.314,0.342,False,10582939,['10582939'],SUPPORTED
+143,Autologous transplantation of mesenchymal stem cells causes fewer opportunistic infections than induction therapy with anti-interleukin-2 receptor antibodies.,SUPPORT,0.792,51.314,51.314,0.346,False,10582939,['10582939'],SUPPORTED
+146,Autologous transplantation of mesenchymal stem cells has lower rates of rejection than induction therapy with anti-interleukin-2 receptor antibodies.,SUPPORT,0.867,46.631,47.015,0.352,False,10582939,['10582939'],SUPPORTED
+148,Autophagy declines in aged organisms.,SUPPORT,1.0,19.215,19.215,0.502,False,1084345,['1084345'],SUPPORTED
+163,Bariatric surgery has a positive impact on mental health.,SUPPORT,0.733,34.945,34.945,0.547,False,18872233,['18872233'],SUPPORTED
+171,Basophils counteract disease development in patients with systemic lupus erythematosus (SLE).,CONTRADICT,0.814,39.49,39.49,0.373,False,12670680,['12670680'],SUPPORTED
+179,Birth-weight is positively associated with breast cancer.,SUPPORT,1.0,22.972,22.972,0.498,False,37480103,"['16322674', '27123743', '23557241', '17450673']",SUPPORTED
+180,Blocking the interaction between TDP-43 and respiratory complex I proteins ND3 and ND6 leads to increased TDP-43-induced neuronal loss.,CONTRADICT,0.841,86.514,86.514,0.574,False,16966326,['16966326'],SUPPORTED
+183,Bone marrow cells contribute to adult macrophage compartments.,CONTRADICT,0.748,20.186,23.001,0.386,False,12827098,['12827098'],SUPPORTED
+185,Breast cancer development is determined exclusively by genetic factors.,CONTRADICT,0.655,17.302,17.302,0.344,False,3285322,['18340282'],SUPPORTED
+198,CCL19 is absent within dLNs.,NEI,0.335,11.473,11.473,0.177,False,19307912,[],HALLUCINATED
+208,CHEK2 is not associated with breast cancer.,SUPPORT,1.0,24.103,24.103,0.623,False,13519661,['13519661'],SUPPORTED
+212,CR is associated with higher methylation age.,CONTRADICT,0.689,15.224,15.224,0.339,False,1754001,['22038539'],SUPPORTED
+213,CRP is not predictive of postoperative mortality following Coronary Artery Bypass Graft (CABG) surgery.,NEI,0.68,49.285,49.285,0.367,False,27054878,[],SUPPORTED
+216,CX3CR1 on the Th2 cells impairs T cell survival,CONTRADICT,0.621,28.543,28.543,0.471,False,21366394,['21366394'],SUPPORTED
+217,CX3CR1 on the Th2 cells promotes T cell survival,SUPPORT,0.762,32.082,32.082,0.552,False,21366394,['21366394'],SUPPORTED
+218,CX3CR1 on the Th2 cells promotes airway inflammation.,SUPPORT,0.793,34.55,34.55,0.516,False,21366394,['21366394'],SUPPORTED
+219,CX3CR1 on the Th2 cells suppresses airway inflammation.,CONTRADICT,0.692,22.082,31.01,0.45,True,20311968,['21366394'],HALLUCINATED
+230,Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries.,SUPPORT,0.59,35.245,35.245,0.294,False,3067015,['3067015'],SUPPORTED
+232,Cataract and trachoma are the primary cause of blindness in Southern Sudan.,NEI,0.71,45.24,45.24,0.47,False,7655029,[],SUPPORTED
+233,Cell autonomous sex determination in somatic cells does not occur in Galliformes.,CONTRADICT,0.683,27.788,27.788,0.368,False,4388470,['4388470'],SUPPORTED
+236,Cell autonomous sex determination in somatic cells occurs in Passeriformes.,SUPPORT,0.683,27.788,27.788,0.368,False,4388470,['4388470'],SUPPORTED
+237,Cells lacking clpC have a defect in sporulation efficiency in Bacillus subtilis.,NEI,0.588,31.808,31.808,0.327,False,4942718,[],SUPPORTED
+238,Cells undergoing methionine restriction may activate miRNAs.,NEI,0.444,18.743,18.743,0.317,False,4463811,[],UNVERIFIED
+239,Cellular aging closely links to an older appearance.,SUPPORT,0.694,14.441,14.441,0.268,False,3952288,['14079881'],SUPPORTED
+248,Chenodeosycholic acid treatment increases whole-body energy expenditure.,SUPPORT,0.724,32.514,32.514,0.375,False,1568684,['1568684'],SUPPORTED
+249,Chenodeosycholic acid treatment reduces whole-body energy expenditure.,CONTRADICT,0.657,29.363,29.363,0.33,False,1568684,['1568684'],SUPPORTED
+261,"Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",SUPPORT,0.407,24.406,24.406,0.264,False,46743299,"['1122279', '10697096']",UNVERIFIED
+268,Cold exposure increases BAT recruitment.,NEI,0.827,23.025,23.025,0.419,False,970012,[],SUPPORTED
+269,Cold exposure reduces BAT recruitment.,NEI,0.834,22.41,22.41,0.393,False,36838958,[],SUPPORTED
+274,Combination nicotine replacement therapies with varenicline or bupropion lead to significantly higher long-term abstinence rates at 52 weeks than varenicline monotherapy.,CONTRADICT,0.634,61.908,64.59,0.359,False,11614737,['11614737'],SUPPORTED
+275,Combining phosphatidylinositide 3-kinase and MEK 1/2 inhibitors is effective at treating KRAS mutant tumors.,SUPPORT,0.648,45.85,45.85,0.389,True,4961038,"['4961038', '14241418']",HALLUCINATED
+279,Commelina yellow mottle virus' (ComYMV) genome consists of 7489 baise pairs.,SUPPORT,0.581,41.193,43.265,0.265,False,14376683,['14376683'],SUPPORTED
+294,Crossover hot spots are not found within gene promoters in Saccharomyces cerevisiae.,NEI,0.595,24.153,24.153,0.232,False,10874408,[],SUPPORTED
+295,Crosstalk between dendritic cells (DCs) and innate lymphoid cells (ILCs) is important in the regulation of intestinal homeostasis.,SUPPORT,0.833,47.384,47.384,0.396,False,20310709,['20310709'],SUPPORTED
+298,Cytochrome c is released from the mitochondrial intermembrane space to cytosol during apoptosis.,SUPPORT,0.865,39.563,39.563,0.395,False,39381118,['39381118'],SUPPORTED
+300,Cytosolic proteins bind to iron-responsive elements on mRNAs coding for DMT1. Cytosolic proteins bind to iron-responsive elements on mRNAs coding for proteins involved in iron uptake.,NEI,0.352,52.428,61.67,0.519,True,3553087,[],UNVERIFIED
+303,DMRT1 is a sex-determining gene that is epigenetically regulated by the MHM region.,NEI,0.58,32.607,32.607,0.368,False,4085204,[],SUPPORTED
+312,De novo assembly of sequence data has more specific contigs than unassembled sequence data.,NEI,0.656,34.953,41.865,0.425,False,14185503,[],SUPPORTED
+314,Deamination of cytidine to uridine on the minus strand of viral DNA results in catastrophic G-to-A mutations in the viral genome.,SUPPORT,0.439,35.622,35.622,0.238,False,544971,['4347374'],UNVERIFIED
+324,Deleting Raptor reduces G-CSF levels.,NEI,0.529,15.118,16.624,0.253,False,6334188,[],UNVERIFIED
+327,Deletion of αvβ8 does not result in a spontaneous inflammatory phenotype.,SUPPORT,1.0,28.125,28.125,0.432,False,17997584,['17997584'],SUPPORTED
+338,Dexamethasone decreases risk of postoperative bleeding.,CONTRADICT,1.0,36.21,36.21,0.627,False,23349986,['23349986'],SUPPORTED
+343,Diabetic patients with acute coronary syndrome experience increased short-term and long-term risk for bleeding events.,SUPPORT,0.758,32.852,38.23,0.35,False,19308127,['5884524'],SUPPORTED
+350,Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3.,NEI,0.645,41.986,41.986,0.447,False,16927286,[],SUPPORTED
+354,Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.,NEI,0.922,50.112,50.112,0.513,False,8774475,[],SUPPORTED
+362,During the primary early antibody response activated B cells migrate toward the inner-and outer paracortical areas where oxysterol accumulation is generated by stromal cells.,NEI,0.37,25.925,29.661,0.168,False,34615397,[],UNVERIFIED
+380,Enhanced early production of inflammatory chemokines improves viral control in the lung.,SUPPORT,0.9,26.713,26.713,0.354,False,19005293,['19005293'],SUPPORTED
+384,Epidemiological disease burden from noncommunicable diseases is more prevalent in low economic settings.,NEI,0.614,30.79,30.79,0.361,False,51972698,[],SUPPORTED
+385,Epigenetic modulating agents (EMAs) modulate antitumor immune response in a cancer model system.,SUPPORT,0.664,36.725,36.725,0.392,False,1032372,['9955779'],SUPPORTED
+386,Errors in peripheral IV drug administration are most common during bolus administration and multiple-step medicine preparations.,SUPPORT,0.566,40.344,40.344,0.322,False,16495649,['16495649'],SUPPORTED
+388,Ethanol stress decreases the expression of IBP in bacteria.,NEI,0.413,16.231,18.695,0.254,False,21602220,[],UNVERIFIED
+399,Exposure to fine particulate air pollution is relate to anxiety prevalence.,SUPPORT,1.0,62.534,62.534,0.618,False,791050,['791050'],SUPPORTED
+410,Febrile seizures increase the threshold for development of epilepsy.,NEI,0.814,34.234,34.234,0.492,False,14924526,[],SUPPORTED
+411,Febrile seizures reduce the threshold for development of epilepsy.,NEI,0.728,32.496,32.496,0.453,False,14924526,[],SUPPORTED
+415,Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for dementia.,SUPPORT,0.556,31.92,31.92,0.289,False,4709641,['6309659'],SUPPORTED
+421,Flexible molecules experience greater steric hindrance in the tumor microenviroment than rigid molecules.,NEI,0.247,18.254,18.254,0.135,False,1065627,[],UNVERIFIED
+431,FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).,SUPPORT,0.589,27.298,31.033,0.342,False,14092737,['28937856'],SUPPORTED
+436,Free histones are degraded by a Rad53-dependent mechanism once DNA has been replicated.,SUPPORT,0.803,34.122,34.122,0.424,False,14637235,['14637235'],SUPPORTED
+437,Functional consequences of genomic alterations due to Myelodysplastic syndrome (MDS) are poorly understood due to the lack of an animal model.,NEI,0.422,24.278,29.281,0.228,False,5765455,[],UNVERIFIED
+439,Fz/PCP-dependent Pk localizes to the anterior membrane of neuroectoderm cells during zebrafish neuralation,NEI,0.362,29.842,29.842,0.21,False,18575183,[],UNVERIFIED
+440,Fz/PCP-dependent Pk localizes to the anterior membrane of notochord cells during zebrafish neuralation.,NEI,0.359,29.842,29.842,0.208,False,18575183,[],UNVERIFIED
+443,GATA-3 is important for hematopoietic stem cell (HSC) function.,SUPPORT,0.833,34.455,34.455,0.502,False,10165258,['10165258'],SUPPORTED
+452,Gene expression does not vary appreciably across genetically identical cells.,CONTRADICT,0.549,13.212,15.269,0.232,False,11411060,"['12804937', '464511']",UNVERIFIED
+475,Glycolysis is one of the primary glycometabolic pathways in cells.,SUPPORT,0.281,11.788,11.788,0.188,False,23576165,['18678095'],HALLUCINATED
+478,Golli-deficient T-cells prefer to differentiate into an anergic phenotype in the adaptive immune response when there are increased levels of Ca2+ in the cytosol.,NEI,0.415,27.661,27.661,0.192,True,34854444,[],UNVERIFIED
+491,HNF4A mutations can cause diabetes in mutant carriers by the age of 14 years,NEI,0.416,22.471,22.471,0.25,True,56893404,[],UNVERIFIED
+501,Headaches are not correlated with cognitive impairment.,SUPPORT,0.808,20.674,20.674,0.487,False,17930286,['17930286'],SUPPORTED
+502,"Healthcare delivery efficiency in crowded delivery centers is impaired by improving structural, logistical, and interpersonal elements.",NEI,0.257,19.825,21.094,0.161,False,70516463,[],HALLUCINATED
+507,Helminths interfere with immune system control of macrophages activated by IL-4 favor Mycobacterium tuberculosis replication.,NEI,0.537,30.673,34.286,0.273,False,30774694,[],UNVERIFIED
+508,Hematopoietic Stem Cell purification reaches purity rate of up to 50%.,NEI,0.534,24.026,24.026,0.285,False,25516011,[],UNVERIFIED
+513,High cardiopulmonary fitness causes increased mortality rate.,CONTRADICT,0.503,15.404,16.937,0.271,False,12770738,['13230773'],UNVERIFIED
+514,High dietary calcium intakes are unnecessary for prevention of secondary hyperparathyroidism in subjects with 25(OH)D levels above 75 nmol/liter.,NEI,0.392,39.572,43.614,0.232,False,25599283,[],UNVERIFIED
+516,High levels of CRP reduces the risk of exacerbations in chronic obstructive pulmonary disease (COPD).,CONTRADICT,0.937,46.159,46.159,0.449,False,29564505,['29564505'],SUPPORTED
+517,High levels of copeptin decrease risk of diabetes.,NEI,0.512,17.697,17.697,0.341,False,19658917,[],UNVERIFIED
+521,High-sensitivity cardiac troponin T (HSCT-T) dosage may not be diagnostic if the onset of symptoms occurs less than 3 hours before acute myocardial injury (AMI).,SUPPORT,0.6,56.404,56.404,0.273,False,34873974,['34873974'],SUPPORTED
+525,Histone demethylase recruitment and a transient decrease in histone methylation is necessary for ligand-dependent induction of transcription by nuclear receptors.,SUPPORT,0.677,49.244,49.244,0.404,False,13639330,['13639330'],SUPPORTED
+527,Homozygous deletion of murine Sbds gene from osterix-expressing mesenchymal stem and progenitor cells (MPCs) prevents oxidative stress.,NEI,0.336,24.952,28.067,0.168,False,1617327,[],HALLUCINATED
+528,Human T-lymphotropic virus type-I-associated myelopathy / tropical spastic paraparesis (HAM/TSP) patients produce Immunoglobulin G (IgG) antibodies which cross-react with an immunodominant epitope in Tax.,SUPPORT,0.561,80.413,80.413,0.255,False,5476778,['5476778'],SUPPORTED
+532,Hyperfibrinogenemia decreases rates of femoropopliteal bypass thrombosis.,CONTRADICT,0.392,22.088,22.088,0.252,False,12991445,['12991445'],UNVERIFIED
+533,Hyperfibrinogenemia increases rates of femoropopliteal bypass thrombosis.,SUPPORT,0.406,22.088,22.088,0.261,False,12991445,['12991445'],UNVERIFIED
+535,Hypertension is frequently observed in type 1 diabetes patients.,NEI,0.704,17.507,18.042,0.352,True,27428509,[],HALLUCINATED
+536,Hypocretin neurones induce panicprone state in rats.,SUPPORT,0.7,24.404,24.404,0.306,False,16056514,['16056514'],SUPPORTED
+539,Hypoglycemia increases the risk of dementia.,SUPPORT,1.0,23.518,23.518,0.603,False,13282296,['13282296'],SUPPORTED
+540,Hypothalamic glutamate neurotransmission is crucial to energy balance.,SUPPORT,0.636,22.371,22.95,0.289,False,17150648,['11886686'],SUPPORTED
+544,IFIT1 restricts viral replication by sequestrating mis-capped viral RNAs.,NEI,0.473,38.951,38.951,0.352,True,1970884,[],UNVERIFIED
+549,IRG1 has antiviral effects against neurotropic viruses.,SUPPORT,1.0,30.112,30.112,0.398,False,9433958,['9433958'],SUPPORTED
+551,ITAM phosphorylation prevents the transfer of the T cell receptor (TCR) signal from the echo-domain to the cytoplasmic tail of the T cell receptor (TCR).,NEI,0.548,59.439,59.439,0.424,False,8903143,[],UNVERIFIED
+552,IgA plasma cells that are specific for transglutaminase 2 accumulate in the duodenal mucosa on commencement of a gluten-free diet.,NEI,0.574,40.037,40.037,0.26,False,1471041,[],SUPPORTED
+554,Immune complex triggered cell death leads to extracellular release of neutrophil protein HMGB1.,NEI,0.558,31.083,31.083,0.324,False,29399239,[],SUPPORTED
+560,Immune responses result in the development of inflammatory Th17 cells and anti-inflammatory iTregs.,NEI,0.656,22.861,24.438,0.31,False,13798951,[],SUPPORTED
+569,"In adult tissue, most T cells are memory T cells.",SUPPORT,1.0,28.238,28.238,0.817,False,23460562,['23460562'],SUPPORTED
+575,"In domesticated populations of Saccharomyces cerevisiae, whole chromosome aneuploidy is very uncommon.",NEI,0.391,24.737,24.737,0.236,False,10300888,[],UNVERIFIED
+577,"In mice, P. chabaudi parasites are able to proliferate faster early in infection when inoculated at lower numbers than when inoculated at high numbers.",NEI,0.266,27.646,27.841,0.206,False,5289038,[],HALLUCINATED
+578,"In mouse models, the loss of CSF1R facilitates MOZ-TIF2-induced leuekmogenesis.",CONTRADICT,0.591,44.367,44.367,0.363,False,8764879,['8764879'],SUPPORTED
+587,"In transgenic mice harboring green florescent protein under the control of the Sox2 promoter, less than ten percent of the cells with green florescent colocalize with cell proliferation markers.",NEI,0.309,28.734,33.077,0.194,False,7142113,[],HALLUCINATED
+589,"In young and middle-aged adults, current or remote uses of ADHD medications do not increase the risk of serious cardiovascular events.",SUPPORT,1.0,78.689,78.689,0.594,False,10984005,['10984005'],SUPPORTED
+593,Incidence of heart failure decreased by 10% in women since 1979.,SUPPORT,0.672,28.463,28.463,0.36,True,19675911,['19675911'],HALLUCINATED
+597,Incidence rates of cervical cancer have decreased.,SUPPORT,0.877,18.235,20.806,0.515,False,36355784,"['12779444', '36355784', '25742130']",SUPPORTED
+598,Incidence rates of cervical cancer have increased due to nationwide screening programs based primarily on cytology to detect uterine cervical cancer.,CONTRADICT,0.387,40.875,44.318,0.312,False,27446873,['25742130'],UNVERIFIED
+613,Increased microtubule acetylation repairs LRRK2 Roc-COR domain mutation induced locomotor deficits.,SUPPORT,0.899,75.277,75.277,0.502,False,9638032,['9638032'],SUPPORTED
+619,Increased vessel density along with a reduction in fibrosis decreases the efficacy of chemotherapy treatments.,CONTRADICT,0.385,14.577,15.576,0.163,False,20888849,['20888849'],UNVERIFIED
+623,Individuals with low serum vitamin D concentrations have increased risk of multiple sclerosis.,NEI,0.797,35.422,35.422,0.409,False,25599283,[],SUPPORTED
+628,Infection of human T-cell lymphotropic virus type 1 is most frequent in individuals of African origin.,NEI,0.631,25.607,28.143,0.276,False,23985464,[],SUPPORTED
+636,"Inositol lipid 3-phosphatase PTEN converts Ptdlns(3,4)P 2 into phosphatidylinositol 4-phosphate.",SUPPORT,0.467,30.037,38.478,0.247,True,42708716,['24294572'],UNVERIFIED
+637,Input from  mental and physical health care professionals is effective at decreasing homelessness.,NEI,0.522,27.948,27.948,0.293,False,25649714,[],UNVERIFIED
+641,Insomnia can be effectively treated with cognitive behavioral therapy.,SUPPORT,0.86,28.754,28.754,0.49,False,5912283,['5912283'],SUPPORTED
+644,Insulin increases risk of severe kidney failure.,NEI,0.907,22.172,22.172,0.465,False,13619127,[],SUPPORTED
+649,Integrating classroom-based collaborative learning with Web-based collaborative learning leads to subpar class performance,NEI,0.284,26.029,26.387,0.207,False,1542437,[],HALLUCINATED
+659,Ivermectin is used to treat lymphatic filariasis.,NEI,0.542,15.963,15.963,0.206,False,1215116,[],UNVERIFIED
+660,Ivermectin is used to treat onchocerciasis.,NEI,0.403,9.124,9.124,0.154,False,1215116,[],UNVERIFIED
+674,LDL cholesterol has no involvement in the development of cardiovascular disease.,CONTRADICT,0.866,29.209,29.209,0.557,False,2095573,['2095573'],SUPPORTED
+684,Lack of clpC does not affect sporulation efficiency in Bacillus subtilis cells.,NEI,0.52,30.483,30.483,0.317,False,34386619,[],UNVERIFIED
+690,Less than 10% of the gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate of more than 5mmol/L.,NEI,0.17,18.834,18.834,0.089,True,18174210,[],UNVERIFIED
+691,Leukemia associated Rho guanine nucleotide-exchange factor represses RhoA in response to SRC activation.,NEI,0.689,36.09,36.09,0.287,False,10991183,[],SUPPORTED
+692,Leuko-increased blood increases infectious complications in red blood cell transfusion.,CONTRADICT,0.425,27.523,27.523,0.3,False,24088502,['24088502'],UNVERIFIED
+693,Leuko-reduced blood reduces infectious complications in red blood cell transfusion.,SUPPORT,0.485,27.382,27.523,0.294,False,24088502,['24088502'],UNVERIFIED
+700,Localization of PIN1 in the Arabidopsis embryo does not require VPS9a,NEI,0.438,17.957,17.957,0.203,True,16557565,[],UNVERIFIED
+702,Localization of PIN1 in the roots of Arabidopsis does not require VPS9a,NEI,0.487,23.007,23.007,0.246,False,38675228,[],UNVERIFIED
+715,Low expression of miR7a does represses target genes and exerts a biological function in ovaries.,NEI,0.314,16.209,16.244,0.164,True,6828370,[],HALLUCINATED
+716,Low expression of miR7a exerts a biological function in testis.,NEI,0.335,13.509,13.509,0.171,True,6828370,[],HALLUCINATED
+718,Low nucleosome occupancy correlates with low methylation levels across species.,CONTRADICT,0.446,20.496,21.797,0.282,False,18895793,['17587795'],UNVERIFIED
+721,Lupus-prone mice infected with curliproducing bacteria have higher autoantibody titers compared to controls.,SUPPORT,0.782,51.83,51.83,0.395,False,1834762,['1834762'],SUPPORTED
+723,Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.,SUPPORT,0.808,48.865,57.84,0.511,False,5531479,['5531479'],SUPPORTED
+727,Ly6C hi monocytes have a lower inflammatory capacity compared to their Ly6C lo counterparts.,NEI,0.574,36.929,46.621,0.414,False,12370881,[],SUPPORTED
+728,Ly6C hi monocytes have a lower inflammatory capacity than Ly6C lo monocytes.,CONTRADICT,0.705,43.247,54.419,0.593,False,12370881,['36444198'],SUPPORTED
+729,Lymphadenopathy is observed in knockin mouse lacking the SHP-2 MAPK pathway.,SUPPORT,0.48,28.659,28.659,0.264,False,18038250,['26851674'],UNVERIFIED
+742,Macrolides have no protective effect against myocardial infarction.,SUPPORT,0.834,25.15,25.15,0.457,False,32159283,['32159283'],SUPPORTED
+743,Macrolides protect against myocardial infarction.,CONTRADICT,0.82,23.378,23.378,0.46,False,32159283,['32159283'],SUPPORTED
+744,Macropinocytosis contributes to a cell's supply of amino acids via the intracellular uptake of protein.,SUPPORT,0.749,40.109,40.109,0.393,False,4138659,['8460275'],SUPPORTED
+756,Many proteins in human cells can be post-translationally modified at lysine residues via acetylation.,SUPPORT,0.844,35.63,38.797,0.403,False,17919731,['2831620'],SUPPORTED
+759,Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.,CONTRADICT,0.597,44.279,46.001,0.304,False,1805641,['1805641'],SUPPORTED
+768,Mercaptopurine is anabolized into the inactive methylmercaptopurine by thiopurine methyltrasnferase (TPMT).,NEI,0.429,24.238,27.4,0.199,False,1373287,[],UNVERIFIED
+770,Metastatic colorectal cancer treated with a single agent fluoropyrimidines resulted in reduced efficacy and lower quality of life when compared with oxaliplatin-based chemotherapy in elderly patients.,SUPPORT,0.67,49.136,55.142,0.3,False,15476777,['15476777'],SUPPORTED
+775,Mice defective for deoxyribonucleic acid (DNA) polymerase I (polI) reveal increased sensitivity to ionizing radiation (IR).,NEI,0.523,33.918,33.918,0.238,False,11569583,[],UNVERIFIED
+781,Mice that lack Interferon-γ or its receptor exhibit high resistance to experimental autoimmune myocarditis.,CONTRADICT,0.652,31.024,34.706,0.365,False,8246922,['24338780'],SUPPORTED
+783,Mice without IFN-γ or its receptor are resistant to EAM induced with α-MyHC/CFA.,NEI,0.735,36.041,36.041,0.343,False,39084565,[],SUPPORTED
+784,MicroRNA is involved in the regulation of Neural Stem Cell (NSC) differentiation and proliferation dynamic homeostasis,SUPPORT,0.523,25.989,25.989,0.271,False,2356950,['2356950'],UNVERIFIED
+785,Microarray results from culture-amplified mixtures of serotypes correlate poorly with microarray results from uncultured mixtures.,NEI,0.462,32.716,34.193,0.294,False,12471115,[],UNVERIFIED
+793,Mitochondria are uninvolved in apoptosis.,CONTRADICT,0.508,12.923,12.923,0.291,False,8551160,['8551160'],UNVERIFIED
+800,Modifying the epigenome in the brain affects the normal human aging process by affecting certain genes related to neurogenesis.,NEI,0.437,20.781,23.031,0.217,False,7988832,[],UNVERIFIED
+805,Monoclonal antibody targeting of N-cadherin inhibits metastasis.,SUPPORT,1.0,45.139,45.139,0.647,False,22180793,['22180793'],SUPPORTED
+808,Most termination events in Okazaki fragments are sequence specific.,SUPPORT,0.787,21.624,21.624,0.339,False,36606083,['36606083'],SUPPORTED
+811,Mutant mice lacking SVCT2 have greatly increased ascorbic acid levels in both brain and adrenals.,CONTRADICT,0.529,35.009,35.009,0.284,False,19799455,['19799455'],UNVERIFIED
+814,"Mutations in G-Beta protein GNB2 are present in many cancers, resulting in loss of interaction with G-alpha subunits and concomitant activation of AKT pathway.",NEI,0.531,51.126,51.126,0.34,False,33387953,[],UNVERIFIED
+820,N-terminal cleavage increases success identifying transcription start sites.,NEI,0.532,20.04,20.04,0.255,False,8712839,[],UNVERIFIED
+821,N-terminal cleavage reduces success identifying transcription start sites.,NEI,0.518,20.04,20.04,0.248,False,8712839,[],UNVERIFIED
+823,N348I mutations cause resistance to zidovudine (AZT).,SUPPORT,0.644,34.244,34.244,0.422,False,15319019,['15319019'],SUPPORTED
+830,NF2 (Merlin) causes phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila by activating LATS1/2 kinases.,NEI,0.389,29.847,29.847,0.172,False,52873726,[],UNVERIFIED
+831,NF2 (Merlin) prevents phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila.,NEI,0.274,18.142,18.142,0.136,True,52873726,[],UNVERIFIED
+832,NFAT4 activation requires IP3R-mediated Ca2+ mobilization.,SUPPORT,0.652,33.979,33.979,0.393,False,30303335,['30303335'],SUPPORTED
+834,NOX2-independent pathways can generate peroxynitrite by reacting with nitrogen intermediates.,NEI,0.392,20.929,20.929,0.197,False,23122306,[],UNVERIFIED
+837,NR5A2 is important in development of endometrial tissues.,SUPPORT,0.655,16.3,16.3,0.299,False,15928989,['15928989'],SUPPORTED
+839,Nanoparticles can be targeted against specific cell types by incorporating aptamers into lipid nanoparticles.,SUPPORT,0.77,37.358,37.358,0.47,False,1469751,['1469751'],SUPPORTED
+845,Neutrophil extracellular traps (NETs) are released by ANCA-stimulated neutrophils.,SUPPORT,1.0,53.186,53.186,0.622,False,17741440,['17741440'],SUPPORTED
+847,New drugs for tuberculosis often do not penetrate the necrotic portion of a tuberculosis lesion in high concentrations.,CONTRADICT,0.63,38.909,38.909,0.362,False,16787954,['16787954'],SUPPORTED
+852,Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.,CONTRADICT,0.55,28.071,28.071,0.343,False,474325,['13843341'],SUPPORTED
+859,Normal expression of RUNX1 has tumor-promoting effects.,CONTRADICT,0.739,17.94,17.94,0.39,False,22049489,['1982286'],SUPPORTED
+870,Obesity decreases life quality.,NEI,0.733,14.708,14.708,0.411,False,11414664,[],SUPPORTED
+873,Obesity is determined solely by environmental factors.,CONTRADICT,0.68,13.34,15.871,0.326,False,52805891,"['1180972', '19307912', '27393799', '29025270', '3315558']",UNVERIFIED
+879,Occupancy of ribosomes by IncRNAs do not make functional peptides.,CONTRADICT,0.404,16.321,18.375,0.245,False,8426046,['8426046'],UNVERIFIED
+880,Occupancy of ribosomes by IncRNAs mirror 5 0-UTRs,SUPPORT,0.478,27.209,27.209,0.266,True,8426046,['8426046'],UNVERIFIED
+882,Omnivores produce less trimethylamine N-oxide from dietary I-carnitine than vegetarians.,CONTRADICT,0.927,57.269,57.269,0.472,False,14803797,['14803797'],SUPPORTED
+887,Only a minority of cells survive development after differentiation into stress-resistant spores.,NEI,0.481,16.219,16.219,0.231,False,16728949,[],UNVERIFIED
+903,PD-1 triggering on monocytes reduces IL-10 production by monocytes.,CONTRADICT,0.907,47.545,47.545,0.68,False,10648422,['10648422'],SUPPORTED
+904,PDPN promotes efficient motility along stromal surfaces by activating the C-type lectin receptor to rearrange the actin cytoskeleton in dendritic cells.,SUPPORT,1.0,81.759,81.759,0.452,False,7370282,['7370282'],SUPPORTED
+907,PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes.,NEI,0.871,52.602,52.602,0.544,False,6923961,[],SUPPORTED
+911,PKG-la plays an essential role in expression of pain hypersensitivity in PGK-la knockout mice.,SUPPORT,0.673,37.505,39.477,0.286,False,11254556,['11254556'],SUPPORTED
+913,PPAR-RXRs are inhibited by PPAR ligands.,NEI,0.52,25.339,26.63,0.54,False,712078,[],UNVERIFIED
+914,PPAR-RXRs can be activated by PPAR ligands.,NEI,0.629,26.478,26.478,0.572,False,712078,[],SUPPORTED
+921,Participating in six months of physical activity improves cognitive functioning.,SUPPORT,0.763,26.18,27.043,0.412,False,37156349,['1642727'],SUPPORTED
+922,Patients in stable partnerships have a faster progression from HIV to AIDS.,CONTRADICT,0.803,38.073,38.073,0.483,False,17077004,['17077004'],SUPPORTED
+936,Peroxynitrite is required for nitration of TCR/CD8.,SUPPORT,0.906,33.774,33.774,0.498,False,5483793,['5483793'],SUPPORTED
+956,Pleiotropic coupling of GLP-1R to intracellular effectors promotes distinct profiles of cellular signaling.,NEI,0.501,27.944,27.944,0.233,False,31107919,[],UNVERIFIED
+957,Podocytes are motile and migrate in the presence of injury.,SUPPORT,0.682,20.244,20.244,0.333,False,123859,['123859'],SUPPORTED
+960,Polymeal nutrition reduces cardiovascular mortality.,SUPPORT,0.618,22.403,22.403,0.411,False,8780599,['8780599'],SUPPORTED
+967,Pretreatment with the Arp2/3 inhibitor CK-666 affects lamelliopodia formation.,SUPPORT,0.466,32.156,32.64,0.256,True,2119889,['8997410'],UNVERIFIED
+971,Primary cervical cancer screening with HPV detection has higher longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2.,SUPPORT,0.762,68.004,74.929,0.489,True,27446873,"['46695481', '27873158', '28617573', '9764256']",HALLUCINATED
+975,Primary pro-inflammatory cytokines induce secondary pro- and anti-inflammatory mediators.,NEI,0.636,34.18,34.18,0.496,False,29509926,[],SUPPORTED
+982,Proteins synthesized at the growth cone are ubiquitinated at a higher rate than proteins from the cell body.,SUPPORT,0.687,38.262,38.262,0.472,False,2988714,['2988714'],SUPPORTED
+985,Pseudogene PTENP1 regulates the expression of PTEN by functioning as an miRNA decoy.,SUPPORT,0.658,42.019,42.019,0.411,False,6828370,['6828370'],SUPPORTED
+993,Pyridostatin destabilizes the G - quadruplex in the telomeric region.,CONTRADICT,0.712,31.62,31.62,0.375,False,16472469,['16472469'],SUPPORTED
+1012,Radioiodine treatment of non-toxic multinodular goitre reduces thyroid volume.,SUPPORT,0.94,56.476,56.476,0.519,False,9745001,['9745001'],SUPPORTED
+1014,Rapamycin decreases the concentration of triacylglycerols in fruit flies.,NEI,0.528,26.25,26.25,0.308,False,6277638,[],UNVERIFIED
+1019,Rapid phosphotransfer rates govern fidelity in two component systems,SUPPORT,0.797,33.098,33.098,0.382,False,1225513,['11603066'],SUPPORTED
+1020,Rapid up-regulation and higher basal expression of interferon-induced genes increase survival of granule cell neurons that are infected by West Nile virus.,SUPPORT,0.613,34.502,34.92,0.24,False,10559501,['9433958'],SUPPORTED
+1021,Rapid up-regulation and higher basal expression of interferon-induced genes reduce survival of granule cell neurons that are infected by West Nile virus.,CONTRADICT,0.574,32.947,34.92,0.236,False,10559501,['9433958'],SUPPORTED
+1024,Recurrent mutations occur frequently within CTCF anchor sites adjacent to oncogenes.,SUPPORT,0.668,33.008,33.008,0.299,False,5373138,['5373138'],SUPPORTED
+1029,Reduced responsiveness to interleukin-2 in regulatory T cells is associated with greater resistance to autoimmune diseases such as Type 1 Diabetes.,CONTRADICT,0.657,34.183,34.183,0.335,False,11899391,"['13923140', '13940200', '11899391']",SUPPORTED
+1041,Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.,CONTRADICT,0.744,54.806,59.524,0.545,False,11844791,['25254425'],SUPPORTED
+1049,Ribosomopathies have a low degree of cell and tissue specific pathology.,CONTRADICT,0.506,18.034,18.841,0.302,False,24737389,['12486491'],UNVERIFIED
+1062,S-nitrosylated GAPDH physiologically transnitrosylates histone deacetylases.,SUPPORT,0.934,51.028,51.028,0.522,False,20381484,['20381484'],SUPPORTED
+1086,Sildenafil improves erectile function in men who experience sexual dysfunction as a result of the use of SSRI antidepressants.,SUPPORT,0.748,39.934,58.971,0.426,False,39281140,['39281140'],SUPPORTED
+1088,Silencing of Bcl2 is important for the maintenance and progression of tumors.,CONTRADICT,0.425,13.975,15.938,0.259,False,5765455,['37549932'],UNVERIFIED
+1089,Smc5/6 engagment drives the activation of SUMO E3 ligase Mms21 by ATP-dependent remolding.,SUPPORT,0.708,69.926,69.926,0.428,False,17628888,['17628888'],SUPPORTED
+1099,Statins decrease blood cholesterol.,NEI,0.816,17.823,20.598,0.508,False,7662206,[],SUPPORTED
+1100,Statins increase blood cholesterol.,NEI,0.881,17.823,18.258,0.486,False,7662206,[],SUPPORTED
+1104,Stroke patients with prior use of direct oral anticoagulants have a lower risk of in-hospital mortality than stroke patients with prior use of warfarin.,SUPPORT,0.833,68.866,68.866,0.583,False,3898784,['3898784'],SUPPORTED
+1107,Subcutaneous fat depots undergo extensive browning processes after cold exposure.,SUPPORT,0.681,39.951,39.951,0.371,False,20532591,['20532591'],SUPPORTED
+1110,Suboptimal nutrition is not predictive of chronic disease,CONTRADICT,0.5,14.199,14.199,0.278,False,27408104,['13770184'],UNVERIFIED
+1121,Synaptic activity enhances local release of brain derived neurotrophic factor from postsynaptic dendrites.,SUPPORT,0.699,34.641,34.641,0.33,False,10790846,['4456756'],SUPPORTED
+1130,T regulatory cells (tTregs) lacking αvβ8 are more adept at suppressing pathogenic T-cell responses during active inflammation.,CONTRADICT,0.642,51.745,51.745,0.386,False,17997584,['17997584'],SUPPORTED
+1132,TCR/CD3 microdomains are a required to induce the immunologic synapse to activate T cells.,SUPPORT,0.882,43.265,43.265,0.452,False,6936141,['33499189'],SUPPORTED
+1137,TNFAIP3 is a tumor suppressor in glioblastoma.,CONTRADICT,0.783,21.752,21.752,0.405,False,33370,['33370'],SUPPORTED
+1140,Taking 400mg of α-tocopheryl acetate helps to prevent prostate cancer.,CONTRADICT,0.33,19.961,19.961,0.18,False,12009265,['12009265'],HALLUCINATED
+1144,Taxation of sugar-sweetened beverages had no effect on the incidence rate of type II diabetes in India.,CONTRADICT,0.872,41.875,50.881,0.39,False,10071552,['10071552'],SUPPORTED
+1146,Teaching hospitals do not provide better care than non-teaching hospitals.,SUPPORT,0.762,37.843,41.397,0.705,False,13906581,['13906581'],SUPPORTED
+1150,Tetraspanin-3 is a causative factor in the development of acute myelogenous leukemia,SUPPORT,0.853,41.634,41.634,0.513,False,11369420,['11369420'],SUPPORTED
+1163,The DdrB protein from Deinococcus radiodurans is an alternative SSB.,SUPPORT,0.65,34.793,34.793,0.356,False,15305881,['15305881'],SUPPORTED
+1175,The PPR MDA5 has two N-terminal CARD domains.,NEI,0.57,23.123,23.123,0.252,False,15419873,[],SUPPORTED
+1179,The PRR MDA5 has a central DExD/H RNA helices domain.,NEI,0.603,34.235,34.235,0.312,False,10627801,[],SUPPORTED
+1180,The PRR MDA5 is a sensor of RNA virus infection.,SUPPORT,0.562,24.568,24.568,0.332,False,10627801,['31272411'],SUPPORTED
+1185,The US health care system can save up to $750 million if 7% of patients waiting for kidney transplants participate in the optimized national kidney paired donation program.,SUPPORT,0.87,83.896,83.896,0.418,False,16737210,['16737210'],SUPPORTED
+1187,The YAP1 and TEAD complex tanslocates into the nucleus where it interacts with transcription factors and DNA-binding proteins that modulate target gene transcription.,SUPPORT,0.441,33.945,33.945,0.239,True,52873726,['52873726'],UNVERIFIED
+1191,The amount of publicly available DNA data doubles every 10 years.,NEI,0.379,16.131,17.722,0.198,True,86704258,[],UNVERIFIED
+1194,The arm density of TatAd complexes is due to structural rearrangements within Class1 TatAd complexes such as the 'charge zipper mechanism'.,NEI,0.292,29.646,29.646,0.196,False,11419230,[],HALLUCINATED
+1196,The availability of safe places to study is effective at decreasing homelessness.,NEI,0.437,19.191,19.191,0.281,False,154243324,[],UNVERIFIED
+1197,The availability of safe places to study is not effective at decreasing homelessness.,NEI,0.437,19.191,19.191,0.281,False,154243324,[],UNVERIFIED
+1199,The benefits of colchicine were achieved with effective widespread use of secondary prevention strategies such as high-dose statins.,NEI,0.457,31.559,31.559,0.265,False,7454794,[],UNVERIFIED
+1200,The binding orientation of the ML-SA1 activator at hTRPML2 is different from the binding orientation of the ML-SA1 activator at hTRPML1.,NEI,0.26,32.641,32.641,0.288,False,15472716,[],HALLUCINATED
+1202,The center of the granuloma in an immune cell induces a pro-inflammatory immune response.,SUPPORT,0.718,31.762,31.762,0.461,False,3475317,['3475317'],SUPPORTED
+1204,The combination of H3K4me3 and H3K79me2 is found in quiescent hair follicle stem cells.,NEI,0.497,25.156,25.156,0.223,True,31141365,[],UNVERIFIED
+1207,The composition of myosin-II isoform switches from the polarizable B isoform to the more homogenous A isoform during hematopoietic differentiation.,NEI,0.442,30.512,30.512,0.242,False,18909530,[],UNVERIFIED
+1213,The deregulated and prolonged activation of monocytes has deleterious effects in inflammatory diseases.,NEI,0.547,16.74,16.74,0.22,False,23901235,[],UNVERIFIED
+1216,The extracellular domain of TMEM27 is cleaved in human beta cells.,SUPPORT,0.936,41.68,41.68,0.575,False,24142891,['24142891'],SUPPORTED
+1221,The genomic aberrations found in matasteses are very similar to those found in the primary tumor.,CONTRADICT,0.461,15.945,19.159,0.265,False,1866911,['19736671'],UNVERIFIED
+1225,The locus rs647161 is associated with colorectal carcinoma.,SUPPORT,0.639,13.878,14.713,0.237,False,9650982,['9650982'],UNVERIFIED
+1226,"The loss of the TET protein functions may have dire biological consequences, such as myeloid cancers.",NEI,0.463,18.182,19.257,0.191,False,11951999,[],UNVERIFIED
+1232,The minor G allele of FOXO3 is related to more severe symptoms of Crohn's Disease.,CONTRADICT,0.84,40.235,40.235,0.387,False,13905670,['13905670'],SUPPORTED
+1241,The myocardial lineage develops from cardiac progenitors of mesodermal origin.,SUPPORT,0.634,24.314,24.314,0.336,False,6148876,['4427392'],SUPPORTED
+1245,The one-child policy has been successful in lowering population growth.,NEI,0.503,14.869,14.869,0.225,False,7662395,[],UNVERIFIED
+1259,The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is dependent on the patient's genetic make-up.,SUPPORT,0.447,30.043,30.043,0.287,False,20454006,['24341590'],UNVERIFIED
+1262,The repair of Cas9-induced double strand breaks in human DNA is error-prone.,SUPPORT,1.0,52.701,52.701,0.515,False,44172171,['44172171'],SUPPORTED
+1266,"The risk of breast cancer among parous women increases with placental weight of pregnancies, and this association is strongest for premenopausal breast cancer.",SUPPORT,0.595,51.422,51.422,0.395,False,37480103,['37480103'],SUPPORTED
+1270,The risk of male prisoners harming themselves is ten times that of female prisoners.,CONTRADICT,1.0,59.217,59.217,0.765,False,13900610,['13900610'],SUPPORTED
+1271,The severity of cardiac involvement in amyloidosis can be described by the degree of transmurality of late gadolinium enhancement in MRI.,SUPPORT,0.686,48.792,48.792,0.37,False,13768432,['13768432'],SUPPORTED
+1272,The single flash-evoked ERG b-wave is generated by activity of ON-bipolar cells.,NEI,0.505,24.759,24.759,0.216,False,24760136,[],UNVERIFIED
+1273,The sliding activity of kinesin-8 protein Kip3 promotes bipolar spindle assembly.,SUPPORT,0.963,69.708,69.708,0.59,False,11041152,['11041152'],SUPPORTED
+1274,The tip of the inner tube of the toxic type VI secretion system (T6SS) antibacterial effector in Escherichia coli (E. coli) carries toxic effector proteins.,SUPPORT,0.538,53.994,57.747,0.302,False,7481159,['4406819'],UNVERIFIED
+1278,The treatment of cancer patients with co-IR blockade does not cause any adverse autoimmune events.,NEI,0.363,16.25,19.894,0.224,False,25589047,[],UNVERIFIED
+1279,The treatment of cancer patients with co-IR blockade precipitates adverse autoimmune events.,NEI,0.326,16.25,16.25,0.164,False,25589047,[],HALLUCINATED
+1280,"The ureABIEFGH gene cluster encodes urease maturation proteins : UreD/UreH, UreE, UreF, and UreG.",NEI,0.602,71.354,71.354,0.454,False,29214508,[],SUPPORTED
+1281,The ureABIEFGH gene cluster is induced by nickel (II) ion.,NEI,0.396,14.321,14.321,0.167,False,29214508,[],UNVERIFIED
+1282,Therapeutic use of the drug Dapsone to treat pyoderma gangrenous is based on anecdotal evidence.,NEI,0.327,17.554,17.554,0.139,False,23649163,[],UNVERIFIED
+1290,There is an inverse relationship between hip fractures and statin use.,SUPPORT,0.813,35.692,35.692,0.52,False,4687948,['4687948'],SUPPORTED
+1292,There is no association between HNF4A mutations and diabetes risks.,NEI,0.881,20.15,22.471,0.477,False,56893404,[],SUPPORTED
+1298,Thigh-length graduated compression stockings (GCS) did not reduce deep vein thrombosis in patients admitted to hospital who are immobile because of acute stroke.,SUPPORT,1.0,92.252,92.252,0.437,False,11718220,['11718220'],SUPPORTED
+1303,Tirasemtiv has no effect on fast-twitch muscle.,CONTRADICT,0.444,14.113,14.96,0.209,False,40631095,['12631697'],UNVERIFIED
+1316,Transferred UCB T cells acquire a memory-like phenotype in recipients.,NEI,0.444,21.411,21.411,0.233,False,24879055,[],UNVERIFIED
+1319,Transplanted human glial cells can differentiate within the host animal.,SUPPORT,0.529,16.845,18.051,0.279,False,11527199,['16284655'],UNVERIFIED
+1320,Transplanted human glial progenitor cells are incapable of forming a neural network with host animals' neurons.,CONTRADICT,0.472,25.67,25.67,0.219,False,36637129,['16284655'],UNVERIFIED
+1332,Tumor necrosis factor alpha (TNF-α) and interleukin-1 (IL-1) are pro-inflammatory cytokines that inhibit IL-6 and IL-10.,NEI,0.751,56.106,56.106,0.458,True,9846940,[],HALLUCINATED
+1335,UCB T cells maintain high TCR diversity after transplantation.,SUPPORT,0.556,26.815,26.815,0.348,False,27910499,['27910499'],SUPPORTED
+1336,UCB T cells reduce TCR diversity after transplantation.,CONTRADICT,0.63,26.815,26.815,0.394,False,27910499,['27910499'],SUPPORTED
+1337,Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164.,SUPPORT,0.613,48.653,48.653,0.295,True,20231138,['20231138'],HALLUCINATED
+1339,Ultrasound guidance significantly raises the number of traumatic procedures when attempting needle insertion.,CONTRADICT,0.784,48.469,48.469,0.364,False,15482274,['15482274'],SUPPORTED
+1344,Up-regulation of the p53 pathway and related molecular events casues cancer resistance and results in a significantly shortened lifespan marked by senescent cells and accelerated organismal aging.,NEI,0.386,32.774,37.192,0.202,False,9291668,[],UNVERIFIED
+1352,Upregulation of mosGCTL-1 is induced upon infection with West Nile virus.,SUPPORT,0.787,42.77,42.77,0.426,False,12885341,['12885341'],SUPPORTED
+1359,Varenicline monotherapy is more effective after 12 weeks of treatment compared to combination nicotine replacement therapies with varenicline or bupropion.,CONTRADICT,0.75,59.197,59.197,0.466,False,11614737,['11614737'],SUPPORTED
+1362,Venules have a larger lumen diameter than arterioles.,NEI,0.469,15.15,16.102,0.186,False,8290953,[],UNVERIFIED
+1363,Venules have a thinner or absent smooth layer compared to arterioles.,NEI,0.37,15.15,15.15,0.138,False,8290953,[],UNVERIFIED
+1368,Vitamin D deficiency effects the term of delivery.,SUPPORT,0.783,21.486,22.227,0.412,False,13312471,['2425364'],SUPPORTED
+1370,Vitamin D deficiency is unrelated to birth weight.,CONTRADICT,0.468,22.227,22.227,0.345,False,275294,['2425364'],UNVERIFIED
+1379,Women with a higher birth weight are more likely to develop breast cancer later in life.,SUPPORT,0.621,28.463,28.463,0.349,False,5487448,"['16322674', '27123743', '23557241', '17450673']",SUPPORTED
+1382,aPKCz causes tumour enhancement by affecting glutamine metabolism.,CONTRADICT,0.422,22.302,22.302,0.277,False,3831884,['17755060'],UNVERIFIED
+1385,cSMAC formation enhances weak ligand signalling.,SUPPORT,0.91,32.301,32.301,0.486,False,306006,['306006'],SUPPORTED
+1389,mTORC2 regulates intracellular cysteine levels through xCT inhibition.,SUPPORT,0.639,35.294,35.294,0.408,False,23895668,['23895668'],SUPPORTED
+1395,p16INK4A accumulation is  linked to an abnormal wound response caused by the microinvasive step of advanced Oral Potentially Malignant Lesions (OPMLs).,NEI,0.212,18.476,18.476,0.103,True,7711685,[],UNVERIFIED

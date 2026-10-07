@@ -1,0 +1,8 @@
+,value
+compound_sentences,124.0
+split_into_2_clauses,0.8709677419354839
+TRUE part shown green: whole sentence,0.08064516129032258
+TRUE part shown green: after splitting,0.8148148148148148
+TRUE part shown green: atomic (upper bound),0.8225806451612904
+NEI part falsely green: after splitting,0.3055555555555556
+NEI part falsely green: atomic,0.29838709677419356
