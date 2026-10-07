@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.env
+data/raw/
+data/corpus.json
+.DS_Store
+.DS_Store

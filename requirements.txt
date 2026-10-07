@@ -1,0 +1,10 @@
+streamlit
+rank-bm25
+nltk
+scikit-learn
+pandas
+numpy
+openai
+python-dotenv
+matplotlib
+requests
