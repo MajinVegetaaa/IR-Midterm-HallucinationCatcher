@@ -1,0 +1,5 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "question": "What is the role of BRCA1 mutations in breast cancer?",
+  "answer": "BRCA1 mutations dramatically increase breast\u2011cancer risk by impairing homologous\u2011recombination DNA repair, leading to genomic instability. Women who carry a pathogenic BRCA1 variant have a 55\u201165\u202f% lifetime risk of developing breast cancer, compared with about 12\u202f% in the general population, and the disease often appears before age\u202f40. Tumors in BRCA1 carriers are disproportionately triple\u2011negative (lacking ER, PR, and HER2), accounting for roughly 70\u202f% of their cancers in large cohort studies such as the 2014 CIMBA analysis of 12,000 carriers. The same defect makes these cancers highly sensitive to PARP inhibitors; the OlympiAD trial showed a 31\u202f% reduction in progression\u2011free survival for olaparib versus standard chemotherapy in BRCA\u2011mutated metastatic cases. Consequently, BRCA1 status guides both risk\u2011reduction strategies (e.g., prophylactic mastectomy, intensified screening) and targeted therapy choices."
+}

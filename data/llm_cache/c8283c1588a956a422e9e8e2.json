@@ -1,0 +1,5 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "question": "What is the effect of sleep deprivation on the immune system?",
+  "answer": "Sleep deprivation impairs both innate and adaptive immunity, reducing the activity of natural\u2011killer cells by up to 40\u202f% after just one night of 4\u202fh sleep and lowering cytokine production such as interleukin\u20112 and interferon\u2011\u03b3 (Bryant et\u202fal., 2004). Chronic restriction to 5\u20136\u202fh per night for two weeks decreases vaccine\u2011induced antibody titers by roughly 20\u202f% compared with 8\u202fh sleepers (Cohen et\u202fal., 2009). Short\u2011term sleep loss also raises circulating C\u2011reactive protein and cortisol, creating a pro\u2011inflammatory state that can exacerbate infection risk. In shift\u2011workers, epidemiologic data show a 1.3\u2011fold higher incidence of common colds and a 1.5\u2011fold increase in respiratory infections (Patel et\u202fal., 2012). Together, these findings demonstrate that inadequate sleep compromises immune surveillance and hampers the body\u2019s ability to mount effective responses to pathogens."
+}

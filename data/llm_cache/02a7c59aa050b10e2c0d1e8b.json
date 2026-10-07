@@ -1,0 +1,5 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "question": "How does smoking affect lung cancer risk?",
+  "answer": "Smoking is the dominant cause of lung cancer, accounting for about 85\u202f% of all cases worldwide. Epidemiological studies such as the U.S. Surgeon General report and the British Doctors\u2019 Study show that smokers have a 20\u2011 to 30\u2011fold higher risk of developing lung cancer than never\u2011smokers, with risk rising sharply after 20 pack\u2011years (\u224815\u2011fold) and exceeding 30\u2011fold after 40 pack\u2011years. The risk is dose\u2011dependent: each additional pack per day adds roughly 6\u202f% to the relative risk, and former smokers retain about half the excess risk after 10\u202fyears of abstinence, with the risk approaching that of never\u2011smokers only after 20\u201330\u202fyears of cessation. Moreover, secondhand smoke increases lung\u2011cancer risk by 20\u201130\u202f% in non\u2011smokers, underscoring the carcinogenic potency of tobacco smoke constituents such as polycyclic aromatic hydrocarbons and nitrosamines."
+}

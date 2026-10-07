@@ -1,0 +1,5 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "question": "How does obesity affect the risk of type 2 diabetes?",
+  "answer": "Obesity is one of the strongest modifiable risk factors for type\u202f2 diabetes, with most large cohort studies showing that people with a body\u2011mass index (BMI) \u226530\u202fkg/m\u00b2 are 3\u20137\u202ftimes more likely to develop the disease than those with a normal BMI. A meta\u2011analysis of 21 prospective studies found that each 5\u2011unit increase in BMI raises diabetes risk by about 30\u202f% and that a 10\u2011cm rise in waist circumference adds roughly a 20\u202f% risk increment. The Nurses\u2019 Health Study reported a 62\u202f% incidence of diabetes among obese women over 20\u202fyears, compared with 7\u202f% in women of normal weight. Mechanistically, excess adipose tissue promotes insulin resistance through chronic inflammation, elevated free fatty acids, and altered adipokine secretion. Importantly, modest weight loss can reverse much of this risk: a 5\u202f% reduction in body weight lowers incident diabetes by about 58\u202f% in high\u2011risk adults, as demonstrated in the Diabetes Prevention Program."
+}

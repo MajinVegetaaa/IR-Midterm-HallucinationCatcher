@@ -1,0 +1,5 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "question": "What is the role of p53 in the DNA damage response?",
+  "answer": "p53 acts as a master transcriptional regulator that is rapidly stabilized after DNA damage, chiefly by ATM/ATR\u2011mediated phosphorylation of Ser15 and subsequent inhibition of MDM2, leading to a 5\u2011 to 10\u2011fold increase in nuclear p53 within 30\u202fminutes of ionizing radiation. Once active, p53 induces the cyclin\u2011dependent kinase inhibitor p21^CIP1/WAF1, causing G1 arrest; p21 transcription rises about 8\u2011fold in human fibroblasts after a 2\u202fGy dose, allowing time for repair. p53 also up\u2011regulates DNA\u2011repair genes such as GADD45 and XPC, and if lesions persist it triggers apoptosis by transcribing pro\u2011apoptotic effectors like BAX and PUMA, which are elevated 3\u2011 to 4\u2011fold in p53\u2011wild\u2011type cells versus null cells. Mouse models lacking Trp53 develop spontaneous tumors at a median age of 6\u202fmonths, whereas >50\u202f% of human cancers harbor TP53 mutations that abrogate these checkpoint and apoptotic functions."
+}

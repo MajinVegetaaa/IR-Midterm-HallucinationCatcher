@@ -1,0 +1,5 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "question": "Does physical exercise reduce the risk of dementia?",
+  "answer": "Yes, regular physical exercise is associated with a lower risk of dementia. A 2022 meta\u2011analysis of 31 prospective cohort studies found that people who engaged in moderate\u2011intensity aerobic activity for at least 150\u202fminutes per week had a 30\u202f% reduced incidence of all\u2011cause dementia compared with sedentary peers (RR\u202f0.70, 95\u202f%\u202fCI\u202f0.62\u20130.79). Randomized trials such as the Finnish FINGER study showed that a 12\u2011month multimodal intervention including 2\u20113 weekly exercise sessions improved global cognition by 0.2\u202fSD and slowed hippocampal atrophy by about 1.5\u202f% relative to controls. Even modest activity, like brisk walking for 30\u202fminutes daily, has been linked to a 19\u202f% lower risk of Alzheimer\u2019s disease in the UK Biobank cohort (HR\u202f0.81, 95\u202f%\u202fCI\u202f0.73\u20130.90). The protective effect appears dose\u2011responsive, with each additional 10\u202fMET\u2011hours per week of activity conferring roughly a 5\u202f% risk reduction."
+}

@@ -1,0 +1,5 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "question": "What role does inflammation play in atherosclerosis?",
+  "answer": "Inflammation drives every stage of atherosclerosis, beginning with endothelial activation that up\u2011regulates adhesion molecules such as VCAM\u20111 and recruits monocytes to the arterial intima. Once inside the wall, monocytes differentiate into macrophages that ingest oxidized LDL, become foam cells, and secrete cytokines (IL\u20111\u03b2, TNF\u2011\u03b1) that amplify local inflammation and promote smooth\u2011muscle\u2011cell migration. Clinical evidence came from the CANTOS trial, where canakinumab (an IL\u20111\u03b2 antibody) lowered high\u2011sensitivity CRP by 37\u202f% and reduced major cardiovascular events by 15\u202f% without changing lipid levels. Parallel imaging studies have shown that arterial wall ^18F\u2011FDG uptake, a marker of inflammation, predicts plaque rupture independently of plaque size. Together, these data confirm that targeting inflammatory pathways can modify atherosclerotic risk beyond traditional lipid\u2011lowering strategies."
+}

@@ -1,0 +1,5 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "question": "A brand new uncached question?",
+  "answer": "I\u2019m happy to help, but I need a bit more detail to give you a useful answer. Could you let me know which scientific or health topic you\u2019re interested in? For example, you might want information on recent COVID\u201119 vaccine efficacy studies, the latest findings on gut microbiome diversity, or new data on climate\u2011related disease patterns. Providing a specific area will let me cite relevant figures, such as the 95\u202f% efficacy reported in the Phase\u202f3 trial of the mRNA\u20111273 vaccine (NEJM, 2020) or the 30\u202f% reduction in type\u202f2 diabetes incidence observed in the Diabetes Prevention Program (JAMA, 2002). Once I know your focus, I can give you a concise, data\u2011rich response."
+}
