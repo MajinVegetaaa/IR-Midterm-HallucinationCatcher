@@ -2,7 +2,7 @@
 
 CSD358 IR Hackathon — **Track 1: Retrieval-Augmented Generation and trustworthy answers**
 
-An LLM (hosted on Groq) answers a science or health question from memory. The answer is split into
+An LLM answers a science or health question from memory. The answer is split into
 sentences and **each sentence is run as a query against a BM25 index of 5,183 scientific abstracts**
 (SciFact). Every sentence is coloured:
 
@@ -33,9 +33,8 @@ python evaluate.py            # metrics + charts -> outputs/
 python evaluate.py --live     # also verifies Groq answers to demo_questions.json
 ```
 
-**Multiple API keys.** Put several Groq keys in `.env` as `GROQ_API_KEYS=gsk_a,gsk_b,gsk_c`, and/or paste
-extra comma-separated keys into the sidebar's password field. If a key is rate-limited (HTTP 429), invalid
-or blocked, the next key is tried automatically, and the next question starts from the last key that worked.
+Put your Groq api keys in `.env`, and/or paste 
+comma-separated keys into the UI sidebar.
 The answer header shows which key was used (masked). `GROQ_API_KEY` (single key) still works.
 
 No key? Choose **"Paste text to check"** in the sidebar to verify any paragraph offline.
@@ -144,9 +143,9 @@ reproducible evaluation.
 retrieved chunks to the LLM (RAG generation mode), and per-sentence citations.
 
 ## Work division
-- **Member A:** `data_loader.py`, `ir_engine.py`, retrieval evaluation.
-- **Member B:** `llm_agent.py`, `demo_questions.json`, verifier evaluation.
-- **Member C:** `app.py` (Streamlit dashboard), report and video.
+- **Poorab Mishra:** `data_loader.py`, `ir_engine.py`, retrieval evaluation.
+- **Vishu Vardhan Chundu:** `llm_agent.py`, `demo_questions.json`, verifier evaluation.
+- **Shreyas Achal:** `app.py` (Streamlit dashboard), report and video.
 
 ## AI-use declaration
 Claude Code (Anthropic) was used to help design the system and write the code in this repository.
